@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter">Войти в аккаунт</string>
+    <string name="sign_in">Sign in</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="welcomeBack">С возвращением, Эмиль!</string>
+    <string name="which">Каким ты видишь себя сегодня?</string>
+</resources>
